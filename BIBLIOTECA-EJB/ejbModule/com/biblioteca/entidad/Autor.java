@@ -16,6 +16,7 @@ public class Autor {
 	@Column(name = "aut_codigo")
 	private Integer codigo;
 	
+	//Este es el campo nombre 
 	@Column(name = "aut_nombre")
 	private String nombre;
 	
